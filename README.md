@@ -79,7 +79,7 @@ Amin Abbar - [@Amin743](https://t.me/Amin743) - fhx3000@gmail.com
 
 البرنامج حتى الأن غير رسمي ولا يتبع أي جهة في كلية تقنية المعلومات جامعة مصراتة
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">العودة للأعلى</a>)</p>
 
 
 
