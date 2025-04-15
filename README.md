@@ -15,7 +15,7 @@
   <p align="center">
     اداة ادارة برامج كلية تقنية المعلومات جامعة مصراتة
     <br />
-    <a href="https://github.com/AminAbbar/IT-Apps-Installer/releases/download/v0.0.3/IT.Apps.Installer_0.0.3_x64-setup.exe"><strong>تنزيل الأداة</strong></a>
+    <a href="https://github.com/AminAbbar/IT-Apps-Installer/releases/download/v0.0.5/IT.Apps.Installer_0.0.5_x64-setup.exe"><strong>تنزيل الأداة</strong></a>
     <br />
     <br />
     <a href="https://t.me/itstudents2024">مجموعة التلغرام</a>
@@ -33,7 +33,7 @@
 
 ## صورة من داخل الأداة
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AminAbbar/IT-Apps-Installer/releases/tag/v0.0.3)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/AminAbbar/IT-Apps-Installer/releases/tag/v0.0.5)
 
 
 
