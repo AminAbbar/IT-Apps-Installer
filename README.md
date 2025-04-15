@@ -22,6 +22,8 @@
     .
     <a href="https://t.me/yourSpaece">قناة التلغرام</a>
     ·
+    <a href="https://it-installer.vercel.app">الموقع الرسمي</a>
+    ·
     <a href="https://github.com/AminAbbar/IT-Apps-Installer/issues/new?labels=bug&template=bug-report---.md">التبليغ عن مشكلة</a>
     ·
     <a href="https://github.com/AminAbbar/IT-Apps-Installer/issues/new?labels=enhancement&template=feature-request---.md">اقتراح ميزة </a>
