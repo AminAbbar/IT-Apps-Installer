@@ -35,7 +35,7 @@
 
 ## صورة من داخل الأداة
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AminAbbar/IT-Apps-Installer/releases/tag/v0.0.5)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/AminAbbar/IT-Apps-Installer/releases/tag/v0.0.6)
 
 
 
